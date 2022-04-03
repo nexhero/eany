@@ -1,0 +1,2 @@
+# eany
+encrypt anything
